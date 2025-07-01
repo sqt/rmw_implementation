@@ -2,8 +2,8 @@
 Changelog for package test_rmw_implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.1.1 (2025-07-01)
+------------------
 * add ignore_local_publications_serialized test. (`#255 <https://github.com/ros2/rmw_implementation/issues/255>`_)
 * Contributors: Tomoya Fujita
 
