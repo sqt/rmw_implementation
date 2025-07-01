@@ -2,6 +2,11 @@
 Changelog for package rmw_implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fixed windows warning (`#254 <https://github.com/ros2/rmw_implementation/issues/254>`_)
+* Contributors: Alejandro Hernández Cordero
+
 3.1.0 (2025-04-25)
 ------------------
 
