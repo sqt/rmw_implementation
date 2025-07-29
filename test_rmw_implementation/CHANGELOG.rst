@@ -2,8 +2,8 @@
 Changelog for package test_rmw_implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.1.2 (2025-07-29)
+------------------
 * Test failing deserialization of invalid sequence length (`#261 <https://github.com/ros2/rmw_implementation/issues/261>`_)
 * Contributors: Miguel Company
 
