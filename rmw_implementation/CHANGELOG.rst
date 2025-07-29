@@ -2,6 +2,9 @@
 Changelog for package rmw_implementation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 3.1.1 (2025-07-01)
 ------------------
 * Fixed windows warning (`#254 <https://github.com/ros2/rmw_implementation/issues/254>`_)
